@@ -1,4 +1,6 @@
-Anotação feita com base no [vídeo](https://www.youtube.com/watch?v=9l3mSjFZSVM)
+# Controle as informações que você consome
+
+Anotação feita com base neste [vídeo](https://www.youtube.com/watch?v=9l3mSjFZSVM)
 
 A teoria cognitiva fala que existe uma parte da memória chamada de memória de trabalho, e essa região que a gente utiliza quando estamos aprendendo. Essa região é super limita, e segundo algumas pesquisas, o ser humano consegue lidar com 5 +- coisas ao mesmo tempo, ou seja:
 - Produtivo: 5+2 coisas ao mesmo tempo
