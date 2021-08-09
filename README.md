@@ -8,3 +8,4 @@ Tópicos abordados nessa aula:
 - [Controle o número de informações consumidas](https://github.com/AlanaZUP/Como-ser-um-estudante-melhor/blob/master/ControleInformacoes.md)
 - [Maximize a recuperação de conteúdo](https://github.com/AlanaZUP/Como-ser-um-estudante-melhor/blob/master/maximizeRecuperacaoConteudo.md)
 - [Defina bons objetivos de aprendizado](https://github.com/AlanaZUP/Como-ser-um-estudante-melhor/blob/master/objetivosAprendizado.md)
+- [O poder dos esquemas](https://github.com/AlanaZUP/Como-ser-um-estudante-melhor/blob/master/esquemas.md)
