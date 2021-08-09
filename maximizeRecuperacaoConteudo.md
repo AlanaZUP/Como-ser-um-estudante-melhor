@@ -15,7 +15,11 @@ Fazendo uma analogia a quando uma pessoa aprende a andar de bicicleta, o vídeo 
 Para podermos criar esse caminho ao conhecimento, e ter uma fácil recuperação do conteúdo, foi dado algumas dicas no vídeo:
 - Faça um resumo com as suas palavras do assunto aprendido.
 - Faça um vídeo explicando esse assunto.
+- Anote o que entendeu e o que não entendeu
 - Troque idéias e informações sobre esse conteúdo com outras pessoas.
 - Se o conteúdo for um assunto prático, simule uma situação para treiná-lo. Se for uma teoria de código, faça algum exercício que aplique essa teoria.
 - Se estiver lendo um livro, não leia tudo de uma vez, vá aprendendo aos poucos com cada capítulo. Por exemplo, ao terminar o capítulo 1, aplique as técnicas acima a respeito do assunto.
 
+<br>
+
+Para validar se vc realmente entendeu o assunto, você precisa analisar se tem a capacidade de enxergar a aplicação de maneira antecipada, analizando as dificuldades e os benefícios. Quando você começa a enxegar múltiplcas coisas como se fossem uma só, vocÊ expande sua capacidade de absorção, abrindo espaço para o uso da memória de trabalho.
