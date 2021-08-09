@@ -4,5 +4,5 @@ O foco deste documento é servir como anotações das aulas oferecidas pelo Oran
 
 Tópicos abordados nessa aula:
 
-- [Introdução]()
-- [Controle o número de informações consumidas]()
+- [Introdução](https://github.com/AlanaZUP/Como-ser-um-estudante-melhor/blob/master/introducao.md)
+- [Controle o número de informações consumidas](https://github.com/AlanaZUP/Como-ser-um-estudante-melhor/blob/master/ControleInformacoes.md)
